@@ -1,0 +1,2 @@
+# NLM_BackSpriteColor
+選択項目ごとの黒い背景を自由な色に変更します
